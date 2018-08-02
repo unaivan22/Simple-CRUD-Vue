@@ -1,6 +1,6 @@
 # Simple CRUD Vue
 
-build with VUEJS and materializecss with Firebase
+build using VUEJS, materializecss and Firebase
 
 > simple project CRUD Vue
 
